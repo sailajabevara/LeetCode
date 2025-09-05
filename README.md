@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/sailajabevara/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sailajabevara/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/sailajabevara/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1734-bank-account-summary-ii](https://github.com/sailajabevara/LeetCode/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
