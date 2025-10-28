@@ -1,0 +1,21 @@
+class Solution {
+    public int lengthOfLastWord(String s) {
+        int count = 0;              // to store length of last word
+        int n = s.length() - 1;     // start from the last character
+
+        if(s.length() < 1) return count; // empty string edge case
+
+        // Skip trailing spaces
+        while(n >= 0 && s.charAt(n) == ' ') {
+            n--;
+        }
+
+        // Count letters of the last word
+        while(n >= 0 && s.charAt(n) != ' ') {
+            n--;
+            count++;
+        }
+
+        return count;
+    }
+}
