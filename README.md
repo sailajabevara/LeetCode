@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailajabevara/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailajabevara/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
