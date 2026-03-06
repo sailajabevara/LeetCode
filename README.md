@@ -59,4 +59,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailajabevara/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
