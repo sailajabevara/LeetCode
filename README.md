@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/sailajabevara/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/sailajabevara/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
