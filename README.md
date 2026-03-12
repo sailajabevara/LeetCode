@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
