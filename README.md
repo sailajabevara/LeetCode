@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sailajabevara/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailajabevara/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sailajabevara/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Database
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sailajabevara/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
 ## Sorting
 | Problem Name | Difficulty |
