@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0585-investments-in-2016](https://github.com/sailajabevara/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [0610-triangle-judgement](https://github.com/sailajabevara/LeetCode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/sailajabevara/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sailajabevara/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
