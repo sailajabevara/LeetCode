@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sailajabevara/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sailajabevara/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sailajabevara/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sailajabevara/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sailajabevara/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/sailajabevara/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/sailajabevara/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
