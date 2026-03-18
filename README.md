@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sailajabevara/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sailajabevara/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sailajabevara/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sailajabevara/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sailajabevara/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
 ## Two Pointers
