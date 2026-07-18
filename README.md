@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sailajabevara/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailajabevara/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sailajabevara/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailajabevara/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
