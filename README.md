@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0709-to-lower-case](https://github.com/sailajabevara/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
