@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sailajabevara/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sailajabevara/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sailajabevara/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sailajabevara/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sailajabevara/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sailajabevara/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/sailajabevara/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sailajabevara/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sailajabevara/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
