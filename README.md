@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sailajabevara/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sailajabevara/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sailajabevara/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sailajabevara/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sailajabevara/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sailajabevara/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sailajabevara/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sailajabevara/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/sailajabevara/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
