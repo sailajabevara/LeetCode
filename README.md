@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailajabevara/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sailajabevara/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Tree
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailajabevara/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/sailajabevara/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
