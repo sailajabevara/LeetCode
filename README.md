@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sailajabevara/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0561-array-partition](https://github.com/sailajabevara/LeetCode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/sailajabevara/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sailajabevara/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sailajabevara/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
