@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sailajabevara/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sailajabevara/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sailajabevara/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sailajabevara/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sailajabevara/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/sailajabevara/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Trie
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sailajabevara/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sailajabevara/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [3731-find-missing-elements](https://github.com/sailajabevara/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sailajabevara/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sailajabevara/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sailajabevara/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
