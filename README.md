@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sailajabevara/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sailajabevara/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sailajabevara/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/sailajabevara/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailajabevara/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sailajabevara/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sailajabevara/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/sailajabevara/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/sailajabevara/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sailajabevara/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sailajabevara/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sailajabevara/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sailajabevara/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/sailajabevara/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sailajabevara/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sailajabevara/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sailajabevara/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sailajabevara/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
