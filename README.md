@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sailajabevara/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0735-asteroid-collision](https://github.com/sailajabevara/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/sailajabevara/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sailajabevara/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/sailajabevara/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sailajabevara/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/sailajabevara/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/sailajabevara/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sailajabevara/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/sailajabevara/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
