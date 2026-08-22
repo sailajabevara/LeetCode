@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sailajabevara/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/sailajabevara/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sailajabevara/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sailajabevara/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
