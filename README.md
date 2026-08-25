@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sailajabevara/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sailajabevara/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sailajabevara/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/sailajabevara/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sailajabevara/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/sailajabevara/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sailajabevara/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sailajabevara/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/sailajabevara/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
