@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sailajabevara/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sailajabevara/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/sailajabevara/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sailajabevara/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sailajabevara/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sailajabevara/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sailajabevara/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sailajabevara/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/sailajabevara/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/sailajabevara/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/sailajabevara/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/sailajabevara/LeetCode/tree/main/0682-baseball-game/) | Easy |
